@@ -19,7 +19,6 @@ Este repositório contém um projeto voltado para análise de avaliações de um
 📂 projeto
 ├── 📁 data            # Diretório para armazenamento dos dados coletados
 ├── 📁 notebooks       # Notebooks Jupyter para exploração e treinamento
-├── 📁 models          # Modelos treinados e checkpoints
 ├── 📁 apresentação    # Apresentação com resultados e métricas de avaliação dos modelos
 └── 📄 README.md       # Este arquivo
 ```
