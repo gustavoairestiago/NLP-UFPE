@@ -1,3 +1,5 @@
+*Não consegui gravar o video por problemas técnicos no me computador.
+
 # Classificador de Avaliações de Produto
 
 Este repositório contém um projeto voltado para análise de avaliações de um produto específico, utilizando técnicas de aprendizado de máquina e processamento de linguagem natural para classificação de sentimentos. O projeto inclui três abordagens distintas de classificação.
