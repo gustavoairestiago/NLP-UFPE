@@ -1,11 +1,10 @@
 # Classificador de Avaliações de Produto
 
-Este repositório contém um projeto voltado para coleta e análise de avaliações de um produto específico, utilizando técnicas de aprendizado de máquina e processamento de linguagem natural para classificação de sentimentos. O projeto inclui três abordagens distintas de classificação.
+Este repositório contém um projeto voltado para análise de avaliações de um produto específico, utilizando técnicas de aprendizado de máquina e processamento de linguagem natural para classificação de sentimentos. O projeto inclui três abordagens distintas de classificação.
 
 ## Objetivos
 
-1. **Coletar dados:** Captura de textos de avaliações e suas respectivas notas para o produto selecionado.
-2. **Treinar classificadores:** Comparar diferentes técnicas de classificação de sentimentos:
+1. **Treinar classificadores:** Comparar diferentes técnicas de classificação de sentimentos:
    - SVM + Bag of Words (BoW)
    - SVM + Embeddings
    - BERT (Bidirectional Encoder Representations from Transformers)
@@ -19,7 +18,7 @@ Este repositório contém um projeto voltado para coleta e análise de avaliaç�
 ├── 📁 data            # Diretório para armazenamento dos dados coletados
 ├── 📁 notebooks       # Notebooks Jupyter para exploração e treinamento
 ├── 📁 models          # Modelos treinados e checkpoints
-├── 📁 resultados      # Resultados e métricas de avaliação dos modelos
+├── 📁 apresentação    # Apresentação com resultados e métricas de avaliação dos modelos
 └── 📄 README.md       # Este arquivo
 ```
 
@@ -28,9 +27,8 @@ Este repositório contém um projeto voltado para coleta e análise de avaliaç�
 ## Etapas do Projeto
 
 ### 1. Coleta de Dados
-- **Fonte:** Avaliações coletadas de plataformas públicas (e.g., Amazon, Mercado Livre).
+- **Fonte:** Avaliações coletadas da Amazon.
 - **Campos:** Texto da avaliação, nota atribuída pelo usuário.
-- **Script:** `scripts/data_collection.py` realiza a coleta e o pré-processamento dos dados.
 
 ### 2. Pré-processamento
 - Tokenização
