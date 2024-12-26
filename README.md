@@ -1,4 +1,4 @@
-*Não consegui gravar o video por problemas técnicos no me computador.
+*Não consegui gravar o video por problemas técnicos no meu computador.
 
 # Classificador de Avaliações de Produto
 
