@@ -2,6 +2,9 @@
 
 Este repositório contém um projeto voltado para análise de avaliações de um produto específico, utilizando técnicas de aprendizado de máquina e processamento de linguagem natural para classificação de sentimentos. O projeto inclui três abordagens distintas de classificação.
 
+## Link para o vídeo de apresentação
+https://youtu.be/AC6o_nZEEeg
+
 ## Objetivos
 
 1. **Treinar classificadores:** Comparar diferentes técnicas de classificação de sentimentos:
